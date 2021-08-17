@@ -1,1 +1,11 @@
-Repo projet s2#
+Video Game Project - EPITA S2# - 2020
+
+Project Resume:
+3d iso escape the room type game, character represented by sprites
+player can collect items : add time to timer, get more hp, get clues to win levels
+
+How to contribute:
+
+clone repo and launch project in unity
+
+
