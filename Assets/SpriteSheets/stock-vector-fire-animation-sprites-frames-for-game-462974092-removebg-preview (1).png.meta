@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: a8688abadcda31e4bbe3bac1a0101fe6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2507073471574231261
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_0
+  - first:
+      213: 7581354802602144072
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_1
+  - first:
+      213: -5216634876462076472
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_2
+  - first:
+      213: -3287071324673279168
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_3
+  - first:
+      213: 6124490828142441261
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_4
+  - first:
+      213: 8765542205955809265
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_5
+  - first:
+      213: 7412632097637187858
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_6
+  - first:
+      213: -4698391477029114268
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_7
+  - first:
+      213: 2640969270200767434
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_8
+  - first:
+      213: 7250406717463868177
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_9
+  - first:
+      213: 8768704748693403583
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_10
+  - first:
+      213: -5257545804371034178
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_11
+  - first:
+      213: -2528610843966205287
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_12
+  - first:
+      213: -4271891314354027933
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_13
+  - first:
+      213: 441133370160599761
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_14
+  - first:
+      213: -6344094640960231067
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_15
+  - first:
+      213: -2861626928279560532
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_16
+  - first:
+      213: 1404384407892968690
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_17
+  - first:
+      213: -5847943442073831837
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_18
+  - first:
+      213: -5330343862860473274
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_19
+  - first:
+      213: 1829533660763204012
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_20
+  - first:
+      213: 7031440105895191413
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_21
+  - first:
+      213: -2491652269627880859
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_22
+  - first:
+      213: -1609897930645369288
+    second: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+      (1)_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+        (1)_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 226
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff90b9c13675a970800000000000000
+      internalID: 8765542205955809265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+        (1)_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 225
+        width: 121
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ee4f348d5fbceb0800000000000000
+      internalID: -4698391477029114268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+        (1)_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 225
+        width: 118
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7b626a282b0b970800000000000000
+      internalID: 8768704748693403583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+        (1)_11
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 226
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf7e1452f17907b0800000000000000
+      internalID: -5257545804371034178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+        (1)_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 81
+        width: 121
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c94838f70d606b0800000000000000
+      internalID: -5330343862860473274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+        (1)_20
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 81
+        width: 119
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca92962db2fc36910800000000000000
+      internalID: 1829533660763204012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+        (1)_22
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 81
+        width: 115
+        height: 109
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.5083974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ac80d467fdb6dd0800000000000000
+      internalID: -2491652269627880859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-fire-animation-sprites-frames-for-game-462974092-removebg-preview
+        (1)_23
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 81
+        width: 115
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e0f379c5e78a9e0800000000000000
+      internalID: -1609897930645369288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
